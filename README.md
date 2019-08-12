@@ -1,3 +1,4 @@
+```
 const webpack = require('webpack')
 const path = require('path')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
@@ -63,3 +64,4 @@ module.exports = {
     maxAssetSize: 512000
   }
 }
+```
